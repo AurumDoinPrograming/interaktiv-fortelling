@@ -30,7 +30,3 @@ klider: hjelpemiddler for problemløsning: grepper (utvidelse i chrome) https://
 iconer: https://icons8.com/
 
 Musikk: Background Cinematic Epic | ALIVE by Alex-Productions | https://www.youtube.com/channel/UCx0_M61F81Nfb-BRXE-SeVA Music promoted by https://www.chosic.com/free-music/all/ Creative Commons CC BY 3.0 https://creativecommons.org/licenses/by/3.0/
-
-For litt mer info se onenoten min: online: https://udeoslokommuneno.sharepoint.com/sites/FYR-TFG-1IM_Programfag/_layouts/OneNote.aspx?id=%2Fsites%2FFYR-TFG-1IM_Programfag%2FSiteAssets%2FFYR-TFG-1IM_Programfag%20Notatblokk&wd=target%28Peder%20Nikolay%20Spongsveen%2F05%20Black%20Mirror%2FKoP.one%7C18F1EEC3-AD14-48B0-A198-F73069AABE4D%2FLoog%20ish%20for%20interaktivt%20spill%7C28D217DC-5277-B44A-98B2-4BE08C822D84%2F%29
-
-lokalt: onenote:https://udeoslokommuneno.sharepoint.com/sites/FYR-TFG-1IM_Programfag/SiteAssets/FYR-TFG-1IM_Programfag%20Notatblokk/Peder%20Nikolay%20Spongsveen/05%20Black%20Mirror/KoP.one#Loog%20ish%20for%20interaktivt%20spill&section-id={18F1EEC3-AD14-48B0-A198-F73069AABE4D}&page-id={28D217DC-5277-B44A-98B2-4BE08C822D84}&end
